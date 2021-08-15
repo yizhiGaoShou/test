@@ -2,9 +2,6 @@
 
 int main()
 {
-	printf("hello git\n");
-	printf("bug issue 101");
-	printf("bug branch test ...");
-
+	printf("hi git start!\n");
 	return 0;
 }
